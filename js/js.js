@@ -132,10 +132,13 @@ function copyText() {
         var interval = setInterval(function() {
             progress += 1;
             loadingOverlay.textContent = 'Copy Data ' + progress + '%';
+            loadingOverlay.style.background = "#ffb0b0";
+            loadingOverlay.style.color = "#000000";
             if (progress >= 100) {
                 clearInterval(interval);
                 // Change text to "Copied"
-                loadingOverlay.textContent = 'Copied';
+                loadingOverlay.textContent = 'Data Copied ✔';
+                loadingOverlay.style.background = "#b0ffba";
                 // After 2 seconds, hide loading overlay
                 setTimeout(function() {
                     loadingOverlay.classList.remove('active');
@@ -144,6 +147,7 @@ function copyText() {
         }, 8); // Adjust the interval here for faster counting
     });
 });
+
 
 
 
