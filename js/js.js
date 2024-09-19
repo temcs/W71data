@@ -40,11 +40,11 @@ const gameset = {
   monday: {
     "9am-3pm": [
       "74% উত্তোলন চলছে - JILI স্লটের Book Of Gold",
-      "77% উত্তোলন চলছে - JDB Mines",
+      "77% উত্তোলন চলছে - JILI স্লটের Golden Land",
       "71% উত্তোলন চলছে - JILI স্লটের Fortune Gems",
       "76% উত্তোলন চলছে - PP স্লটের Barn Festival",
       "75% উত্তোলন চলছে - JILI স্লটের Super Ace",
-      "73% উত্তোলন চলছে - FC Zeus",
+      "73% উত্তোলন চলছে - JILI স্লটের Samba",
     ],
     "3pm-9pm": [
       "78% উত্তোলন চলছে - PG স্লটের Wild Ape#3258",
@@ -59,7 +59,7 @@ const gameset = {
       "76% উত্তোলন চলছে - PG স্লটের Wild Bounty Showdown",
       "73% উত্তোলন চলছে - SPRIBE স্লটের Dice",
       "76% উত্তোলন চলছে - JILI স্লটের Super Ace",
-      "72% উত্তোলন চলছে - JDB Mines",
+      "72% উত্তোলন চলছে - JILI স্লটের Golden Land",
       "80% উত্তোলন চলছে - PG স্লটের Legendary Money King",
       "75% উত্তোলন চলছে - JILI স্লটের Dragon Treasure",
     ],
@@ -94,7 +94,7 @@ const gameset = {
     "9pm-3am": [
       "76% উত্তোলন চলছে - JILI স্লটের Fortune Gems 2",
       "74% উত্তোলন চলছে - JILI স্লটের Dragon & Tiger",
-      "72% উত্তোলন চলছে - JDB Mines",
+      "72% উত্তোলন চলছে - JILI স্লটের Golden Land",
       "78% উত্তোলন চলছে - JILI স্লটের Book Of Gold",
       "71% উত্তোলন চলছে - BNG স্লটের Sun of Egypt 2",
       "69% উত্তোলন চলছে - JILI স্লটের Money Coming",
@@ -152,7 +152,7 @@ const gameset = {
       "71% উত্তোলন চলছে - JILI স্লটের Party star",
       "75% উত্তোলন চলছে - JILI স্লটের Super Ace",
       "73% উত্তোলন চলছে - JILI স্লটের Money Coming",
-      "79% উত্তোলন চলছে - JDB Mines",
+      "79% উত্তোলন চলছে - JILI স্লটের Golden Land",
       "74% উত্তোলন চলছে - PP স্লটের Aztec Gems Deluxe",
     ],
     "3pm-9pm": [
@@ -169,7 +169,7 @@ const gameset = {
       "71% উত্তোলন চলছে - PP স্লটের Release The Bison",
       "76% উত্তোলন চলছে - JILI স্লটের Book Of Gold",
       "75% উত্তোলন চলছে - JILI স্লটের Super Ace",
-      "72% উত্তোলন চলছে - FC Zeus",
+      "72% উত্তোলন চলছে - JILI স্লটের Samba",
     ],
     "3am-9am": [
       "73% উত্তোলন চলছে - SPRIBE স্লটের Dice",
@@ -199,7 +199,7 @@ const gameset = {
       "71% উত্তোলন চলছে - JILI স্লটের Super Ace",
     ],
     "9pm-3am": [
-      "74% উত্তোলন চলছে - JDB Mines",
+      "74% উত্তোলন চলছে - JILI স্লটের Golden Land",
       "75% উত্তোলন চলছে - JILI স্লটের Fortune Gems",
       "71% উত্তোলন চলছে - SPRIBE স্লটের Aviator",
       "76% উত্তোলন চলছে - JILI স্লটের Crazy Hunter2",
